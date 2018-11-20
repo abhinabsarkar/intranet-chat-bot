@@ -9,9 +9,6 @@ Skype for Business On-Premise has a set of APIs called Unified Communications We
 Once the App is registered on Lync server, one can send and receive messages to the bot using Skype. The detailed steps to register an application on the Lync server can be found here.
 https://ucwa.skype.com/documentation/keytasks-createapplication
 
-To register an application on UCWA server with multiple pools, the steps can be found here.
-https://blogs.technet.microsoft.com/poptart/2015/01/28/ucwa-with-directors-or-multiple-pools/
-
 At this point, the high level architecture of the application will look like this.![Alt text](https://github.com/abhinabsarkar/intranet-chat-bot/blob/master/images/Application%20architecture.png)
 
  
