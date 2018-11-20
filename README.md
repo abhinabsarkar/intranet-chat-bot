@@ -18,7 +18,7 @@ At this point, the high level architecture of the application will look like thi
 The application will now poll the Lync server for incoming messages. When a message is received by the application, we bootstrap our bot and pass the text as properly formatted Activity message. The bot then follows usual flow of sending the text to LUIS and determining the intent. Based on the context, it will then send the response back to the user. The end to end architecture of the bot can be seen below. ![Alt text](https://github.com/abhinabsarkar/intranet-chat-bot/blob/master/images/High%20level%20architecture.png)
 
 # Code
-The source code is based on [Ankit Sinha’s sample](https://github.com/ankitbko/ucwa-bot), very well explained blog, written for Skype for Business Online. 
+The source code can be found [here](https://github.com/abhinabsarkar/intranet-chat-bot/tree/master/src). It code is based on [Ankit Sinha’s sample](https://github.com/ankitbko/ucwa-bot), very well explained blog, written for Skype for Business Online. 
 
 # Benefits
 The Skype for Business On-Premise bot has advantages which the Enterprise demands like 
