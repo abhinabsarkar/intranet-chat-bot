@@ -1,6 +1,7 @@
-# Intranet Chat Bot using Skype for Business On-Premise and Microsoft Bot Framework
+# Automation using Cognitive Chat Bots
+### Intranet Chat Bot using Skype for Business On-Premise and Microsoft Bot Framework
 
-## Note: A new version of the Skype for Business Intranet Chat Bot developed on Dotnet Core using Bot Framework SDK V4 is available [here](https://github.com/abhinabsarkar/sfb-on-prem-bot)
+> *Note: A new version of the Skype for Business Intranet Chat Bot developed on Dotnet Core using Bot Framework SDK V4 is available [here](https://github.com/abhinabsarkar/sfb-on-prem-bot)*
 
 Skype for Business is the one of the most common enterprise Instant Messaging platform for thousands of businesses worldwide. However, as a messaging platform, Skype for Business 2015 On-Premise does not support bots out of the box. As per Microsoft, the Skype for Business Bot Framework channel is currently supported for Skype for Business Online and Skype for Business Hybrid environments only. Refer [this](https://msdn.microsoft.com/en-us/skype/skype-for-business-bot-framework/docs/overview#version-suport).
 
